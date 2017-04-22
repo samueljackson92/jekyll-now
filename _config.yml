@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/samueljackson92/jekyll-now/master/imag
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: samueljackson@outlook.com
   facebook:
   flickr:
   github: samueljackson92/samueljackson92.github.io
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: sljack92
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
