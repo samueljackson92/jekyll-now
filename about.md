@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a data scientist working in the SciML group at the Scientific Computing Department in Rutherford Appleton Laboratory, Oxfordshire, UK. In my professional work I'm primarily interested in doing interesting things with scientific datasets.
 
-### More Information
+Outside of my day job I'm interested in tennis, chess, cooking, and learning to speak Spanish.
 
-A place to include any other types of information that you'd like to include about yourself.
+All views are my own.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[samueljackson@outlook.com](mailto:samueljackson@outlook.com)
