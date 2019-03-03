@@ -3,7 +3,7 @@ layout: post
 title: Docker for Scientific Software
 date: 2019-01-01
 tags: docker, software, opinion
-published: False
+published: True
 ---
 
 *A colleague asked me the other day why I prefer Docker over Conda. Here's my thoughts on a response.*
