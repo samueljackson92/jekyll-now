@@ -1,2 +1,0 @@
-# Downsampling in Image Processing
-
