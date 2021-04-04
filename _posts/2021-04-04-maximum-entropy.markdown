@@ -167,4 +167,4 @@ Which assigns higher weights to dice faces with higher numbers. This intuitively
 
  - [Maximum Entropy Distributions - Brian Keng](https://bjlkeng.github.io/posts/maximum-entropy-distributions/)
  - [Concentration of distributions at entropy maxima - E. T. Jaynes](https://bayes.wustl.edu/etj/articles/entropy.concentration.pdf)
- - Sivia, Devinderjit, and John Skilling. Chapter 5. Data Analysis: a Bayesian Tutorial. OUP Oxford, 2006.
+ - D. Sivia, and J. Skilling. Chapter 5. Data Analysis: a Bayesian Tutorial. OUP Oxford, 2006.
