@@ -1,8 +1,8 @@
 ---
 layout: post
 title: L1 and L2 regularization for Machine Learning
-date: 2000-01-01
-tags: machine-learning, regularization, math, bayesian
+date: 2019-02-22
+tags: machine-learning regularization math Bayesian
 ---
 
 Regularisation in machine learning is an important concept to combat overfitting. Overfitting is the failure of a model to generalise well to unseen data. Essentially, overfitting occurs when the model ceases to fit to the underlying objective function of the data and begins to fit to noise.
