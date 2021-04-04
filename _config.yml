@@ -1,0 +1,38 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+#disqus: dbyll
+#google_analytics: dbyll
+title: Samuel Jackson
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Blog
+
+description: Stylish Jekyll Theme
+author:
+  name: Samuel Jackson
+  email: samueljackson@outlook.com
+  github: samueljackson92
+  twitter: sljack92
+  bio: Data Scientist
+  email_md5: fe0a701d9657d5e764824a48d80589b7
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+plugins:
+  - jekyll-paginate
